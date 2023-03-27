@@ -1,4 +1,4 @@
-SHORTEST JOB REMAINING  ALGORITHM
+<h1><b>SHORTEST JOB REMAINING  ALGORITHM</b></h1>
 
 The code above implements the Shortest Remaining Time First (SRTF) scheduling algorithm for a given set of processes.
 
