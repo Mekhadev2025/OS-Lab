@@ -10,7 +10,7 @@
     </ol>
   </li>
   <br></br>
-   <li height="20px"><b>Week 4 </b><br></br>
+   <li height="20px"><b>Week 5 </b><br></br>
     <ol>
       <li>First Fit</li>
       <li>Best Fit</li>
@@ -18,7 +18,13 @@
     </ol>
   </li>
   
-  
+  <br></br>
+   <li height="20px"><b>Week 6 </b><br></br>
+    <ol>
+      <li>Producer Consumer Using Semaphores</li>
+      
+    </ol>
+  </li>
   
   
   </ul>
