@@ -21,9 +21,8 @@
   <br></br>
    <li height="20px"><b>Week 6 </b><br></br>
     <ol>
-      <li>Producer Consumer Using Semaphores</li>
-      
-    </ol>
+  <li>Producer Consumer Using Semaphores </li>
+  </ol>
   </li>
   
   
