@@ -27,7 +27,7 @@ int main(){
     rq[n+1]=0;
     rq[n]=head;
     n=n+3;
-
+    
        //sorting all
         for(int i=0;i<n;i++)
         {
@@ -96,3 +96,5 @@ for (int i = 0; i < p; i++)
 
 
 }
+
+

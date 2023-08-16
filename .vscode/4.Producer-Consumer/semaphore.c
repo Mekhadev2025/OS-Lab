@@ -28,7 +28,7 @@ case 1:
 	  else 
 		printf("Buffer Full\n");
 	
-	break;
+	    break;
 	}
 case 2 :{
 	if((mutex==1)&&(full!=0))
